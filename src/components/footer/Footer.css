@@ -1,0 +1,8 @@
+.control-buttons {
+    width: 100%;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-color: #573b8a;
+    display: flex;
+    }

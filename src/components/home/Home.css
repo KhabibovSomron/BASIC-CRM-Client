@@ -1,0 +1,15 @@
+.home {
+    width: 100%;
+    padding: 0 auto;
+    height: 100%;
+    padding: 10px;
+    
+}
+
+.table-con {
+    height: 100%;
+}
+
+td > button {
+    width: 100%;
+}

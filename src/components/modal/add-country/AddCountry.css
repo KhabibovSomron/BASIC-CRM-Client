@@ -1,0 +1,13 @@
+.body-con {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.body-con input {
+    font-size: 20px;
+    padding: 20px;
+    width: 100%;
+    outline: none;
+  }
